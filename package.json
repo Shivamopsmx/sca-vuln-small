@@ -1,0 +1,9 @@
+{
+  "name": "sca-vuln-small",
+  "version": "1.0.0",
+  "description": "Small set of intentionally vulnerable dependencies for SCA/SBOM scan testing.",
+  "dependencies": {
+    "minimist": "1.2.0",
+    "axios": "0.18.0"
+  }
+}
